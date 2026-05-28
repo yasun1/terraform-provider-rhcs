@@ -18,7 +18,7 @@ require (
 	github.com/openshift-online/ocm-common v0.0.0-20240530142840-e5c9a2df3e14
 	github.com/openshift-online/ocm-sdk-go v0.1.435
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.9.3
+	github.com/sirupsen/logrus v1.9.4
 	github.com/thoas/go-funk v0.9.3
 	github.com/zgalor/weberr v0.8.2
 	go.uber.org/mock v0.4.0
