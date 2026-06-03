@@ -1,6 +1,6 @@
 module github.com/terraform-redhat/terraform-provider-rhcs
 
-go 1.21
+go 1.23
 
 require (
 	github.com/Masterminds/semver v1.5.0
@@ -39,7 +39,7 @@ require (
 	golang.org/x/sys v0.22.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	k8s.io/klog/v2 v2.110.1 // indirect
-	k8s.io/utils v0.0.0-20230726121419-3b25d923346b // indirect
+	k8s.io/utils v0.0.0-20260507154919-ff6756f316d2 // indirect
 )
 
 require (
